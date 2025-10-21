@@ -130,18 +130,6 @@ Ao integrar Lambda com S3 usando Access Points, é possível controlar o acesso 
 
 ---
 
-## 📂 Estrutura do Projeto (Exemplo)
-
-📁 lambda-s3-access/
-├── lambda/
-│ └── handler.py
-├── iam/
-│ └── lambda-execution-role.json
-├── s3/
-│ └── access-point-policy.json
-├── scripts/
-│ └── deploy.sh
-└── README.md
 
 
 
